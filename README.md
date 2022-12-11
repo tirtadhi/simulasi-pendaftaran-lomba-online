@@ -1,1 +1,1 @@
-# simulasi-pendaftaran-lomba-online
+Tugas akhir pembuatan sistem pendaftaran lomba secara online
